@@ -1,0 +1,5 @@
+<map id="Arme" name="Arme">
+<area shape="rect" id="node1" title="Classe abstraite représentant une arme utilisée par un joueur." alt="" coords="47,5,104,32"/>
+<area shape="rect" id="node2" href="$class_mine.html" title="Classe représentant une mine posée par un joueur." alt="" coords="5,80,60,107"/>
+<area shape="rect" id="node3" href="$class_missile.html" title="Classe représentant un missile lancé par un joueur." alt="" coords="84,80,152,107"/>
+</map>

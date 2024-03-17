@@ -1,0 +1,4 @@
+<map id="Incassable" name="Incassable">
+<area shape="rect" id="node1" title="Classe représentant un mur ne pouvant pas être détruit par un missile." alt="" coords="5,80,96,107"/>
+<area shape="rect" id="node2" href="$class_mur.html" title="Classe abstraite représentant un obstacle." alt="" coords="27,5,74,32"/>
+</map>
